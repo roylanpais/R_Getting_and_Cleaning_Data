@@ -1,6 +1,5 @@
 * Submission project for the Getting and Cleaning Data Coursera course.
-
-Dataset: "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
+* Dataset: "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 
 * The included run_analysis.R which performs the data preparation and then followed by these steps required as described in the  project requirements:
 
